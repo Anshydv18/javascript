@@ -18,3 +18,9 @@ console.log(arr);
 
 //the typeof null is object and all the other dataypes of every datatype are same
 // the typeof references are the object functions of all 
+
+
+// primitive values (stack) and non-primitive(heap);
+/*
+stack always makes a copy and heap makes a refrence of the main value 
+*/
