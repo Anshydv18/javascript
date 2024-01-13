@@ -24,3 +24,16 @@ else{
     }
 }*/
 
+// null coalescing operator , basically reject the null and undefined values , 
+
+let val1;
+//val1= 5??10;
+val1= null??10;
+console.log(val1);
+
+
+//ternary operatpr
+// condition?true:false;
+
+let val = 80>1?1:0;
+console.log(val);
